@@ -1,0 +1,1 @@
+Component directory reserved for future extraction. The current prototype keeps the primary UI in src/main.jsx so it is easy to copy and run.
